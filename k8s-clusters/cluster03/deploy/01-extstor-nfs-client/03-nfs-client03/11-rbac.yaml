@@ -1,0 +1,68 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: nfs-client03
+---
+kind: ServiceAccount
+apiVersion: v1
+metadata:
+  name: nfs-client-sa03
+  namespace: nfs-client03
+---
+kind: ClusterRole
+apiVersion: rbac.authorization.k8s.io/v1
+metadata:
+  name: nfs-client03-runner
+  namespace: nfs-client03
+rules:
+  - apiGroups: [""]
+    resources: ["persistentvolumes"]
+    verbs: ["get", "list", "watch", "create", "delete"]
+  - apiGroups: [""]
+    resources: ["persistentvolumeclaims"]
+    verbs: ["get", "list", "watch", "update"]
+  - apiGroups: ["storage.k8s.io"]
+    resources: ["storageclasses"]
+    verbs: ["get", "list", "watch"]
+  - apiGroups: [""]
+    resources: ["events"]
+    verbs: ["create", "update", "patch"]
+---
+kind: ClusterRoleBinding
+apiVersion: rbac.authorization.k8s.io/v1
+metadata:
+  name: run-nfs-client03
+  namespace: nfs-client03
+subjects:
+  - kind: ServiceAccount
+    name: nfs-client-sa03
+    namespace: nfs-client03
+roleRef:
+  kind: ClusterRole
+  name: nfs-client03-runner
+  apiGroup: rbac.authorization.k8s.io
+---
+kind: Role
+apiVersion: rbac.authorization.k8s.io/v1
+metadata:
+  name: leader-locking-nfs-client03
+  namespace: nfs-client03
+rules:
+  - apiGroups: [""]
+    resources: ["endpoints"]
+    verbs: ["get", "list", "watch", "create", "update", "patch"]
+---
+kind: RoleBinding
+apiVersion: rbac.authorization.k8s.io/v1
+metadata:
+  name: leader-locking-nfs-client03
+  namespace: nfs-client03
+subjects:
+  - kind: ServiceAccount
+    name: nfs-client-sa03
+    # replace with namespace where provisioner is deployed
+    namespace: nfs-client03
+roleRef:
+  kind: Role
+  name: leader-locking-nfs-client03
+  apiGroup: rbac.authorization.k8s.io

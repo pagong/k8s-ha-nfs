@@ -1,0 +1,41 @@
+#kind: ServiceAccount
+#apiVersion: v1
+#metadata:
+#  name: nfs-client-sa03
+#  namespace: nfs-client03
+---
+kind: Deployment
+apiVersion: extensions/v1beta1
+metadata:
+  name: nfs-client03
+  namespace: nfs-client03
+spec:
+  replicas: 1
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: nfs-client03
+    spec:
+      serviceAccountName: nfs-client-sa03
+      containers:
+        - name: nfs-client03
+          image: quay.io/external_storage/nfs-client-provisioner:latest
+          volumeMounts:
+            - name: nfs-client-root
+              mountPath: /persistentvolumes
+          env:
+            - name: PROVISIONER_NAME
+              value: cluster.local/nfs-client03
+            - name: NFS_SERVER
+              value: 192.168.92.42
+            - name: NFS_PATH
+              value: /nfs-rlh-claim03
+      volumes:
+        - name: nfs-client-root
+          persistentVolumeClaim:
+            claimName: pvc-nfs-client03
+#         nfs:
+#           server: 192.168.92.42
+#           path: /nfs-rlh-claim03

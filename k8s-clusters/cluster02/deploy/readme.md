@@ -13,5 +13,5 @@ kubectl config use-context cluster02
 
 ## metalLB
 
-## Rook-nfs
+## Rook-NFS
 
