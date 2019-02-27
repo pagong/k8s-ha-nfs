@@ -1,0 +1,13 @@
+---
+  persistence:
+    storageClass: "nfs-client03-sc"
+  ghostHost: "192.168.92.21"
+  ghostLoadBalancerIP: "192.168.92.21"
+  ghostPassword: "S3hr-UnS1cher"
+  ghostUsername: "admin"
+  mariadb: 
+    db: 
+      password: "S3hr-UnS1cher"
+    master:
+      persistence:
+        storageClass: "nfs-client03-sc"
