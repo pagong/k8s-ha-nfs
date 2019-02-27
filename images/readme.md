@@ -1,1 +1,1 @@
-# Images for the wiki.
+images for the wiki
