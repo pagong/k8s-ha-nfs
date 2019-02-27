@@ -37,5 +37,6 @@ spec:
           persistentVolumeClaim:
             claimName: pvc-nfs-client02
 #         nfs:
+#           # get path and external IP from NFS service in cluster02/deploy/05-rook-nfs
 #           server: 192.168.92.42
 #           path: /nfs-rlh-claim02

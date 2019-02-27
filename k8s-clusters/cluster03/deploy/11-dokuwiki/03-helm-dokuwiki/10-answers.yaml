@@ -1,0 +1,10 @@
+---
+  persistence: 
+    apache: 
+      storageClass: "nfs-client02-sc"
+    dokuwiki: 
+      storageClass: "nfs-client02-sc"
+  dokuwikiUsername: "msd"
+  dokuwikiFullName: "M.S.D."
+  dokuwikiWikiName: "MSD-Wiki"
+  dokuwikiPassword: "S3hr-UnS1cher"
