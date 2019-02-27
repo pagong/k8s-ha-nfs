@@ -1,0 +1,25 @@
+#cloud-config
+ssh_authorized_keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDC+6koe/HSfFR+8s5lU+bRd3EwIDwS3Y8+7ARQBDuRvvXDKyCErJxLITVcEz7x8kGs59Yksr80mt8DW7AyxStEbRqeIlpxeXdhdSbYUDmxpVoxOdOa0wWFdbwnoRlY03Bvp0cDe2y9hS9paj0hyvCoYaEOvwROuWEj+BwJAjjWonOGQsJX9kwGwygf6uVgPwyyhWe4vsSK3K0Vb1jqAfkhGjB4LKLd8HL0AeRdaTREN0Be727YCnzw/mnuBuQpxmXpp7RH6/3/cTDynwmFwzu4fUo/Oe1Lp02+c19EHo5ZEw1bgHpVNoGaFlarZlWcLaVkpJ9HKAje7TbjnBwHKuqJ msd@k8s-cluster
+hostname: k8s-node33
+rancher:
+  resize_device: /dev/vda
+  network:
+    interfaces:
+      eth0:
+        address: 192.168.92.233/24
+        gateway: 192.168.92.1
+        mtu: 1500
+        dhcp: false
+    dns:
+      search:
+        - k8s.v3.msd
+      nameservers:
+        - 192.168.4.9
+        - 172.23.74.30
+        - 192.168.92.110
+#   http_proxy: https://myproxy.example.com
+#   https_proxy: https://myproxy.example.com
+    no_proxy: localhost,127.0.0.1
+  docker:
+    engine: docker-17.03.2-ce
