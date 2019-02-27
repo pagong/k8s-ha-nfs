@@ -1,0 +1,69 @@
+addon_job_timeout: 30
+authentication: 
+  strategy: "x509"
+bastion_host: 
+  ssh_agent_auth: false
+ignore_docker_version: true
+# 
+#   # Currently only nginx ingress provider is supported.
+#   # To disable ingress controller, set `provider: none`
+#   # To enable ingress on specific nodes, use the node_selector, eg:
+#      provider: nginx
+#      node_selector:
+#        app: ingress
+# 
+ingress: 
+  provider: "nginx"
+kubernetes_version: "v1.10.12-rancher1-1"
+monitoring: 
+  provider: "metrics-server"
+# 
+#   # If you are using calico on AWS
+# 
+#      network:
+#        plugin: calico
+#        calico_network_provider:
+#          cloud_provider: aws
+# 
+#   # To specify flannel interface
+# 
+#      network:
+#        plugin: flannel
+#        flannel_network_provider:
+#          iface: eth1
+# 
+#   # To specify flannel interface for canal plugin
+# 
+#      network:
+#        plugin: canal
+#        canal_network_provider:
+#          iface: eth1
+# 
+network: 
+  plugin: "canal"
+# 
+#      services:
+#        kube_api:
+#          service_cluster_ip_range: 10.43.0.0/16
+#        kube_controller:
+#          cluster_cidr: 10.42.0.0/16
+#          service_cluster_ip_range: 10.43.0.0/16
+#        kubelet:
+#          cluster_domain: cluster.local
+#          cluster_dns_server: 10.43.0.10
+# 
+services: 
+  etcd: 
+    creation: "12h"
+    extra_args: 
+      election-timeout: "5000"
+      heartbeat-interval: "500"
+    retention: "72h"
+    snapshot: false
+  kube-api: 
+    pod_security_policy: false
+    service_node_port_range: "30000-32767"
+  kubelet: 
+    fail_swap_on: false
+ssh_agent_auth: false
+
