@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export Inter-Cluster NFS Services 01.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="16.5354in" height="11.6929in"
+		viewBox="0 0 1190.55 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st40">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ff00ff;fill-opacity:0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:2.16}
+		.st2 {stroke:#1f477d;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.16}
+		.st3 {fill:url(#grad0-19);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.16}
+		.st4 {fill:url(#grad1-7);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.16}
+		.st5 {fill:#000000;font-family:Arial;font-size:1.00001em;font-weight:bold}
+		.st6 {font-size:1em;font-weight:normal}
+		.st7 {font-size:1em}
+		.st8 {fill:#fbd7bb;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st9 {fill:#000000}
+		.st10 {stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st11 {fill:#000000;font-family:Calibri;font-size:1.33333em}
+		.st12 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st13 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st14 {fill:#000000;font-family:Arial;font-size:1.00001em}
+		.st15 {fill:#d7e3bf;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st16 {fill:#ffffff}
+		.st17 {fill:#d7e3bf;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st18 {fill:#ebf1df;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st19 {fill:#000000;font-family:Arial;font-size:0.833336em;font-weight:bold}
+		.st20 {fill:#000000;font-family:Arial;font-size:0.833336em}
+		.st21 {fill:#b7dde8;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st22 {font-size:1em;font-weight:bold}
+		.st23 {fill:#fee599;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st24 {fill:#e5b9b5;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st25 {fill:#ff00ff;fill-opacity:0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.72}
+		.st26 {fill:url(#grad0-132);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st27 {fill:url(#grad0-136);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st28 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st29 {fill:url(#grad0-148);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st30 {fill:url(#grad0-152);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st31 {fill:url(#grad0-164);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st32 {fill:url(#grad0-168);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st33 {marker-end:url(#mrkr13-179);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st34 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st35 {fill:url(#grad0-265);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st36 {fill:url(#grad0-269);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st37 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st38 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st39 {marker-start:url(#mrkr13-361);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st40 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<radialGradient id="grad1-7" cx="1" cy="1" r="1.4">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#e1e1e1" stop-opacity="1"/>
+		</radialGradient>
+		<linearGradient id="grad0-19" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#e1e1e1" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-132" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#b7dde8" stop-opacity="1"/>
+			<stop offset="1" stop-color="#89c8da" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-136" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0.01" stop-color="#b7dde8" stop-opacity="1"/>
+			<stop offset="0.5" stop-color="#a0d2e0" stop-opacity="1"/>
+			<stop offset="1" stop-color="#89c8da" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-148" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#fee69a" stop-opacity="1"/>
+			<stop offset="1" stop-color="#fdd660" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-152" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0.01" stop-color="#fee69a" stop-opacity="1"/>
+			<stop offset="0.5" stop-color="#fede7c" stop-opacity="1"/>
+			<stop offset="1" stop-color="#fdd660" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-164" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#e6b8b5" stop-opacity="1"/>
+			<stop offset="1" stop-color="#d68e89" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-168" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0.01" stop-color="#e6b8b5" stop-opacity="1"/>
+			<stop offset="0.5" stop-color="#dda49f" stop-opacity="1"/>
+			<stop offset="1" stop-color="#d68e89" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-265" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#dfdfdf" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-269" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0.01" stop-color="#c0c0c0" stop-opacity="1"/>
+			<stop offset="0.5" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c0c0c0" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-179" class="st34" v:arrowType="13" v:arrowSize="2" v:setback="13.08" refX="-13.08" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<marker id="mrkr13-361" class="st34" v:arrowType="13" v:arrowSize="2" v:setback="12.6" refX="12.6" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(4.36) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Verbinder" v:index="0"/>
+		<g id="group148-1" transform="translate(476.221,-572.428)" v:mID="148" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+						v:val="VT4(Standort)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+						v:val="VT4(Konzeptionell)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+						v:val="VT4(Wolke)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(6):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(7):26"/>
+				<v:ud v:nameU="SubShapeType" v:val="VT0(8):26"/>
+			</v:userDefs>
+			<title>Cloud</title>
+			<desc>Inter-Cluster Communication via External Cluster Service Endp...</desc>
+			<g id="shape149-2" v:mID="149" v:groupContext="shape">
+				<title>Tabelle.149</title>
+				<path d="M16.64 742.27 A21.4086 28.7072 -180 0 0 16.01 798.04 A26.6336 35.7135 -180 0 0 50.03 811.55 A11.5625 15.5043
+							 -180 0 0 69.56 823.38 A35.5562 47.678 -180 0 0 121.29 829.87 A40.4461 34.6664 -75.29 0 0 147.97 826.9
+							 A33.2764 25.5333 -98.64 0 0 178.8 811.9 A18.4506 13.8772 -94.8 0 0 202.51 807.33 A31.9426 42.8325 -180
+							 0 0 239.06 757.48 A15.2111 20.3968 -180 0 0 231.5 719.46 A25.3431 33.983 -180 0 0 202.51 673.83 A19.7122
+							 26.4325 -180 0 0 164.71 672.99 A29.5951 39.6846 -180 0 0 136.35 678.06 A14.0999 18.9068 -180 0 0 113.67
+							 699.18 A24.7714 33.2164 -180 0 0 70.2 711.01 A35.4998 47.6024 -180 0 0 16.64 742.27 Z" class="st1"/>
+			</g>
+			<g id="shape150-4" v:mID="150" v:groupContext="shape">
+				<title>Tabelle.150</title>
+				<path d="M-219.06 1010.41 L123.31 748.18" class="st2"/>
+				<path d="M-155.58 1010.39 L123.31 748.18" class="st2"/>
+				<path d="M348.57 1009.96 L123.31 748.18" class="st2"/>
+				<path d="M480.06 1009.92 L123.31 748.18" class="st2"/>
+				<path d="M614.71 1009.98 L123.31 748.18" class="st2"/>
+				<path d="M123.31 677.89 L123.31 748.18" class="st2"/>
+				<path d="M80.92 709.13 L123.31 748.18" class="st2"/>
+				<path d="M-372.01 1010.4 L123.31 748.18" class="st2"/>
+			</g>
+			<g id="shape151-16" v:mID="151" v:groupContext="shape">
+				<title>Tabelle.151</title>
+				<path d="M16.64 742.27 A35.4998 47.6024 0 0 1 70.2 711.01 A24.7714 33.2164 0 0 1 113.67 699.18 A14.0999 18.9068 0
+							 0 1 136.35 678.06 A29.5951 39.6846 0 0 1 164.71 672.99 A19.7122 26.4325 0 0 1 202.51 673.83 A25.3431
+							 33.983 0 0 1 231.5 719.46 A15.2111 20.3968 0 0 1 239.06 757.48 A31.9426 42.8325 0 0 1 202.51 807.33
+							 A18.4506 13.8772 85.2 0 1 178.8 811.9 A33.2764 25.5333 81.36 0 1 147.97 826.9 A40.4461 34.6664 104.71
+							 0 1 121.29 829.87 A35.5562 47.678 0 0 1 69.56 823.38 A11.5625 15.5043 0 0 1 50.03 811.55 A26.6336 35.7135
+							 0 0 1 16.01 798.04 A21.4086 28.7072 0 0 1 16.64 742.27 Z" class="st3"/>
+			</g>
+			<g id="shape152-20" v:mID="152" v:groupContext="shape" transform="translate(14.1803,-37.4854)">
+				<title>Tabelle.152</title>
+				<path d="M12.64 798.06 A26.9799 20.945 0 0 1 53.35 784.3 A18.8263 14.6152 0 0 1 86.39 779.1 A10.7159 8.31897 0 0
+							 1 103.63 769.8 A22.4923 17.4612 0 0 1 125.18 767.57 A14.9813 11.6303 0 0 1 153.91 767.95 A19.2608 14.9525
+							 0 0 1 175.94 788.02 A11.5604 8.97461 0 0 1 181.69 804.75 A24.2764 18.8463 0 0 1 153.91 826.68 A12.1844
+							 9.45902 0 0 1 132.84 825.2 A17.5503 13.6247 0 0 1 99.32 822.97 A24.9176 19.344 0 0 1 92.18 836.6 A27.0227
+							 20.9783 0 0 1 52.87 833.75 A8.78747 6.8219 0 0 1 38.02 828.54 A20.2415 15.7139 0 0 1 12.17 822.59 A16.2706
+							 12.6312 0 0 1 12.64 798.06 Z" class="st4"/>
+			</g>
+			<g id="shape153-23" v:mID="153" v:groupContext="shape" transform="translate(117.142,-93.7134)">
+				<title>Tabelle.153</title>
+				<path d="M6.41 798.06 A13.6674 20.945 0 0 1 27.03 784.3 A9.53699 14.6152 0 0 1 43.76 779.1 A5.42844 8.31897 0 0 1
+							 52.5 769.8 A11.3941 17.4612 0 0 1 63.41 767.57 A7.5892 11.6303 0 0 1 77.97 767.95 A9.7571 14.9525 0
+							 0 1 89.13 788.02 A5.85627 8.97461 0 0 1 92.04 804.75 A12.2979 18.8463 0 0 1 77.97 826.68 A6.17237 9.45902
+							 0 0 1 67.29 825.2 A8.89064 13.6247 0 0 1 50.31 822.97 A12.6227 19.344 0 0 1 46.7 836.6 A13.6891 20.9783
+							 0 0 1 26.78 833.75 A4.45155 6.8219 0 0 1 19.26 828.54 A10.2539 15.7139 0 0 1 6.16 822.59 A8.24233 12.6312
+							 0 0 1 6.41 798.06 Z" class="st4"/>
+			</g>
+			<g id="shape154-26" v:mID="154" v:groupContext="shape" transform="translate(138.72,-50.6296)">
+				<title>Tabelle.154</title>
+				<path d="M6.24 816.01 A13.3124 12.3643 0 0 1 26.32 807.9 A9.28928 8.62765 0 0 1 42.63 804.82 A5.28745 4.91085 0 0
+							 1 51.13 799.34 A11.0982 10.3077 0 0 1 61.77 798.02 A7.39208 6.86557 0 0 1 75.94 798.24 A9.50367 8.82676
+							 0 0 1 86.81 810.09 A5.70416 5.29788 0 0 1 89.65 819.97 A11.9785 11.1253 0 0 1 75.94 832.91 A6.01205
+							 5.58384 0 0 1 65.55 832.04 A8.65971 8.04292 0 0 1 49.01 830.72 A12.2948 11.4191 0 0 1 45.48 838.77 A13.3336
+							 12.3839 0 0 1 26.09 837.08 A4.33592 4.02709 0 0 1 18.76 834.01 A9.9876 9.27623 0 0 1 6 830.5 A8.02824
+							 7.45643 0 0 1 6.24 816.01 Z" class="st4"/>
+			</g>
+			<g id="shape148-29" v:mID="148" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="123.307" cy="748.176" width="114.04" height="94.4043"/>
+				<text x="89.3" y="715.78" class="st5" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Inter<tspan
+							class="st6">-</tspan><tspan class="st6">Cluster <v:lf/></tspan><tspan x="81.62" dy="1.2em" class="st6">Communication<v:lf/></tspan><tspan
+							x="115.64" dy="1.2em" class="st6">via<v:lf/></tspan><tspan x="78.96" dy="1.2em" class="st7">External </tspan><tspan
+							class="st6">Cluster<v:lf/></tspan><tspan x="74.95" dy="1.2em" class="st6">Service Endpoints<v:newlineChar/></tspan><tspan
+							x="71.96" dy="1.2em" class="st6">(on Host Networks)</tspan></text>			</g>
+		</g>
+		<g id="group125-39" transform="translate(28.3465,-49.6063)" v:mID="125" v:groupContext="group">
+			<title>Tabelle.125</title>
+			<g id="group126-40" v:mID="126" v:groupContext="group">
+				<v:custProps>
+					<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Location" v:lbl="Ort" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Building" v:lbl="Gebäude" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Room" v:lbl="Raum" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Equipment" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="CommunityString" v:lbl="Community String" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="CPU" v:lbl="CPU" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation" v:invis="false"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Memory" v:lbl="Arbeitsspeicher" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="OperatingSystem" v:lbl="Betriebssystem" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="HardDriveSize" v:lbl="Festplattenkapazität" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Department" v:lbl="Abteilung" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+							v:ask="false" v:langID="1031" v:cal="0" v:val="VT4(Geräte)"/>
+					<v:cp v:nameU="BelongsTo" v:lbl="Zuordnung" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="" v:val="VT0(5):26"/>
+					<v:ud v:nameU="SolSH" v:prompt="" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+					<v:ud v:nameU="visLegendShape" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<title>Virtueller Server.60</title>
+				<desc>k8s-node12</desc>
+				<g id="shape127-41" v:mID="127" v:groupContext="shape" transform="translate(30.4266,-5.51181)">
+					<title>Tabelle.127</title>
+					<rect x="0" y="704.094" width="87.9657" height="137.795" class="st8"/>
+				</g>
+				<g id="shape128-43" v:mID="128" v:groupContext="shape" transform="translate(96.1714,-64.3339)">
+					<title>Tabelle.128</title>
+					<ellipse cx="5.31752" cy="836.572" rx="5.31752" ry="5.31752" class="st8"/>
+				</g>
+				<g id="shape129-45" v:mID="129" v:groupContext="shape" transform="translate(63.9026,-28.0992)">
+					<title>Tabelle.129</title>
+					<v:userDefs>
+						<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#fbd7bb)"/>
+					</v:userDefs>
+					<path d="M-0 841.89 L42.9 841.89 L42.9 838.44 L-0 838.44 L-0 841.89 ZM-0 831.44 L42.9 831.44 L42.9 828 L-0 828
+								 L-0 831.44 ZM-0 820.99 L42.9 820.99 L42.9 817.55 L-0 817.55 L-0 820.99 Z" class="st9"/>
+				</g>
+				<g id="shape130-48" v:mID="130" v:groupContext="shape" transform="translate(24.9148,2.77197E-06)">
+					<title>Tabelle.130</title>
+					<path d="M0 841.89 L98.99 841.89 L98.99 693.07 L0 693.07 L0 841.89" class="st10"/>
+				</g>
+				<g id="shape126-51" v:mID="126" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="74.4094" cy="855.492" width="87.59" height="27.2039"/>
+					<text x="36.43" y="860.29" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>k8s-node12</text>				</g>
+			</g>
+			<g id="shape131-53" v:mID="131" v:groupContext="shape" transform="translate(38.9764,-86.4567)">
+				<title>Tabelle.131</title>
+				<desc>2 vCPU 4GB RAM 20GB disk RancherOS 1.4.0</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.9764" cy="817.795" width="77.96" height="48.189"/>
+				<rect x="0" y="793.701" width="77.9528" height="48.189" class="st12"/>
+				<text x="4" y="802.8" class="st13" v:langID="1031"><v:paragraph/><v:tabList/>2 vCPU<v:newlineChar/><tspan x="4"
+							dy="1.2em" class="st7">4GB RAM<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st7">20GB disk<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st7">RancherOS 1.4.0</tspan></text>			</g>
+		</g>
+		<g id="shape209-59" v:mID="209" v:groupContext="shape" transform="translate(127.559,-648.425)">
+			<title>Tabelle.209</title>
+			<desc>Producer-Cluster „Storage-2&#34;</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="824.173" width="113.39" height="35.4331"/>
+			<rect x="0" y="806.457" width="113.386" height="35.4331" class="st8"/>
+			<text x="11.34" y="820.57" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Producer-Cluster<v:newlineChar/><tspan
+						x="26.22" dy="1.2em" class="st7">„</tspan>Storage-2&#34;</text>		</g>
+		<g id="shape210-63" v:mID="210" v:groupContext="shape" transform="translate(942.236,-648.425)">
+			<title>Tabelle.210</title>
+			<desc>Consumer-Cluster „Applications-2&#34;</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.8346" cy="824.173" width="113.67" height="35.4331"/>
+			<rect x="0" y="806.457" width="113.669" height="35.4331" class="st15"/>
+			<text x="8.15" y="820.57" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Consumer-Cluster<v:newlineChar/><tspan
+						x="15.02" dy="1.2em" class="st7">„</tspan>Applications-2&#34;</text>		</g>
+		<g id="group188-67" transform="translate(1013.39,-49.6063)" v:mID="188" v:groupContext="group">
+			<title>Tabelle.188</title>
+			<g id="group189-68" v:mID="189" v:groupContext="group">
+				<v:custProps>
+					<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Location" v:lbl="Ort" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Building" v:lbl="Gebäude" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Room" v:lbl="Raum" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Equipment" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="CommunityString" v:lbl="Community String" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="CPU" v:lbl="CPU" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation" v:invis="false"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Memory" v:lbl="Arbeitsspeicher" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation"
+							v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="OperatingSystem" v:lbl="Betriebssystem" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="HardDriveSize" v:lbl="Festplattenkapazität" v:prompt="" v:type="0" v:format=""
+							v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="Department" v:lbl="Abteilung" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+							v:ask="false" v:langID="1031" v:cal="0" v:val="VT4(Geräte)"/>
+					<v:cp v:nameU="BelongsTo" v:lbl="Zuordnung" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+							v:ask="false" v:langID="1031" v:cal="0"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="" v:val="VT0(5):26"/>
+					<v:ud v:nameU="SolSH" v:prompt="" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+					<v:ud v:nameU="visLegendShape" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<title>Virtueller Server.18</title>
+				<desc>k8s-node33</desc>
+				<g id="shape190-69" v:mID="190" v:groupContext="shape" transform="translate(30.4266,-5.51181)">
+					<title>Tabelle.190</title>
+					<rect x="0" y="704.094" width="87.9657" height="137.795" class="st15"/>
+				</g>
+				<g id="shape191-71" v:mID="191" v:groupContext="shape" transform="translate(96.1714,-64.3339)">
+					<title>Tabelle.191</title>
+					<ellipse cx="5.31752" cy="836.572" rx="5.31752" ry="5.31752" class="st15"/>
+				</g>
+				<g id="shape192-73" v:mID="192" v:groupContext="shape" transform="translate(63.9026,-28.0992)">
+					<title>Tabelle.192</title>
+					<v:userDefs>
+						<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#d7e3bf)"/>
+					</v:userDefs>
+					<path d="M-0 841.89 L42.9 841.89 L42.9 838.44 L-0 838.44 L-0 841.89 ZM-0 831.44 L42.9 831.44 L42.9 828 L-0 828
+								 L-0 831.44 ZM-0 820.99 L42.9 820.99 L42.9 817.55 L-0 817.55 L-0 820.99 Z" class="st16"/>
+				</g>
+				<g id="shape193-76" v:mID="193" v:groupContext="shape" transform="translate(24.9148,2.77197E-06)">
+					<title>Tabelle.193</title>
+					<path d="M0 841.89 L98.99 841.89 L98.99 693.07 L0 693.07 L0 841.89" class="st10"/>
+				</g>
+				<g id="shape189-79" v:mID="189" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="74.4094" cy="855.492" width="87.59" height="27.2039"/>
+					<text x="36.43" y="860.29" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>k8s-node33</text>				</g>
+			</g>
+			<g id="shape194-81" v:mID="194" v:groupContext="shape" transform="translate(38.9764,-86.4567)">
+				<title>Tabelle.194</title>
+				<desc>2 vCPU 4GB RAM 20GB disk RancherOS 1.4.3</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.9764" cy="817.795" width="77.96" height="48.189"/>
+				<rect x="0" y="793.701" width="77.9528" height="48.189" class="st17"/>
+				<text x="4" y="802.8" class="st13" v:langID="1031"><v:paragraph/><v:tabList/>2 vCPU<v:newlineChar/><tspan x="4"
+							dy="1.2em" class="st7">4GB RAM<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st7">20GB disk<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st7">RancherOS 1.4.3</tspan></text>			</g>
+		</g>
+		<g id="group214-87" transform="translate(747.638,-49.6063)" v:mID="214" v:groupContext="group">
+			<title>Tabelle.214</title>
+			<g id="shape157-88" v:mID="157" v:groupContext="shape" transform="translate(25.9221,-169.612)">
+				<title>Tabelle.157</title>
+				<desc>A: nfs-client-provisioner 2.0.1</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="20.16" y="824.72" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>A<tspan
+							class="st6">: nfs</tspan>-client-<tspan x="12.64" dy="1.2em" class="st6">provisioner 2.0.1</tspan></text>			</g>
+			<g id="shape158-93" v:mID="158" v:groupContext="shape" transform="translate(25.9221,-197.959)">
+				<title>Tabelle.158</title>
+				<desc>metallb 0.7.3</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="20.98" y="830.72" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>metallb 0.7.3</text>			</g>
+			<g id="shape159-96" v:mID="159" v:groupContext="shape" transform="translate(25.9221,-226.305)">
+				<title>Tabelle.159</title>
+				<desc>helm-dokuwiki</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st21"/>
+				<text x="15.71" y="830.72" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>helm-<tspan
+							class="st22">dokuwiki</tspan></text>			</g>
+			<g id="shape162-100" v:mID="162" v:groupContext="shape" transform="translate(158.796,-169.612)">
+				<title>Tabelle.162</title>
+				<desc>B: nfs-client-provisioner 2.0.1</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="20.43" y="824.72" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>B: nfs<tspan
+							class="st22">-</tspan><tspan class="st22">client</tspan><tspan class="st22">-</tspan><tspan x="12.64"
+							dy="1.2em" class="st7">provisioner 2.0.1</tspan></text>			</g>
+			<g id="shape163-107" v:mID="163" v:groupContext="shape" transform="translate(158.796,-197.959)">
+				<title>Tabelle.163</title>
+				<desc>metallb 0.7.3</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="20.98" y="830.72" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>metallb 0.7.3</text>			</g>
+			<g id="shape164-110" v:mID="164" v:groupContext="shape" transform="translate(158.796,-226.305)">
+				<title>Tabelle.164</title>
+				<desc>helm-ghost</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st23"/>
+				<text x="23.5" y="830.72" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>helm-<tspan
+							class="st22">ghost</tspan></text>			</g>
+			<g id="shape167-114" v:mID="167" v:groupContext="shape" transform="translate(291.67,-169.612)">
+				<title>Tabelle.167</title>
+				<desc>C: nfs-client-provisioner 2.0.1</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="20.16" y="824.72" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>C<tspan
+							class="st6">: nfs</tspan>-client-<tspan x="12.64" dy="1.2em" class="st6">provisioner 2.0.1</tspan></text>			</g>
+			<g id="shape168-119" v:mID="168" v:groupContext="shape" transform="translate(291.67,-197.959)">
+				<title>Tabelle.168</title>
+				<desc>metallb 0.7.3</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="20.98" y="830.72" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>metallb 0.7.3</text>			</g>
+			<g id="shape169-122" v:mID="169" v:groupContext="shape" transform="translate(291.67,-226.305)">
+				<title>Tabelle.169</title>
+				<desc>helm-nextcloud</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st24"/>
+				<text x="13.49" y="830.72" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>helm-<tspan
+							class="st22">nextcloud</tspan></text>			</g>
+			<g id="group170-126" transform="translate(57.8118,-319.364)" v:mID="170" v:groupContext="group">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konnektivität)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konzeptionell)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Datenbank)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Location" v:lbl="Standort" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Building" v:lbl="Gebäude" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Room" v:lbl="Raum" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:type="0" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="CommunityString" v:lbl="Community String" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT0(4):26"/>
+					<v:ud v:nameU="ShapeType" v:val="VT0(7):26"/>
+					<v:ud v:nameU="SubShapeType" v:val="VT0(16):26"/>
+					<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="HasText" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>Relationale Datenbank</title>
+				<desc>NFS-Share-01</desc>
+				<g id="shape171-127" v:mID="171" v:groupContext="shape">
+					<title>Tabelle.171</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09 Z" class="st25"/>
+				</g>
+				<g id="shape172-129" v:mID="172" v:groupContext="shape" transform="translate(0,-14.1732)">
+					<title>Tabelle.172</title>
+					<ellipse cx="17.7165" cy="831.26" rx="17.7165" ry="10.6299" class="st26"/>
+				</g>
+				<g id="shape173-133" v:mID="173" v:groupContext="shape">
+					<title>Tabelle.173</title>
+					<path d="M0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43 817.09 A17.7165 10.6299 0 1 1 0 817.09
+								 Z" class="st27"/>
+				</g>
+				<g id="shape174-137" v:mID="174" v:groupContext="shape">
+					<title>Tabelle.174</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09" class="st28"/>
+				</g>
+				<g id="shape170-140" v:mID="170" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="17.7165" cy="795.827" width="75.25" height="20.0036"/>
+					<text x="-14.52" y="798.83" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>NFS-Share-01</text>				</g>
+			</g>
+			<g id="group175-142" transform="translate(190.686,-319.364)" v:mID="175" v:groupContext="group">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konnektivität)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konzeptionell)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Datenbank)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Location" v:lbl="Standort" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Building" v:lbl="Gebäude" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Room" v:lbl="Raum" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:type="0" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="CommunityString" v:lbl="Community String" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT0(4):26"/>
+					<v:ud v:nameU="ShapeType" v:val="VT0(7):26"/>
+					<v:ud v:nameU="SubShapeType" v:val="VT0(16):26"/>
+					<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="HasText" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>Relationale Datenbank.96</title>
+				<desc>NFS-Share-02</desc>
+				<g id="shape176-143" v:mID="176" v:groupContext="shape">
+					<title>Tabelle.176</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09 Z" class="st25"/>
+				</g>
+				<g id="shape177-145" v:mID="177" v:groupContext="shape" transform="translate(0,-14.1732)">
+					<title>Tabelle.177</title>
+					<ellipse cx="17.7165" cy="831.26" rx="17.7165" ry="10.6299" class="st29"/>
+				</g>
+				<g id="shape178-149" v:mID="178" v:groupContext="shape">
+					<title>Tabelle.178</title>
+					<path d="M0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43 817.09 A17.7165 10.6299 0 1 1 0 817.09
+								 Z" class="st30"/>
+				</g>
+				<g id="shape179-153" v:mID="179" v:groupContext="shape">
+					<title>Tabelle.179</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09" class="st28"/>
+				</g>
+				<g id="shape175-156" v:mID="175" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="17.7165" cy="795.827" width="75.25" height="20.0036"/>
+					<text x="-14.52" y="798.83" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>NFS-Share-02</text>				</g>
+			</g>
+			<g id="group180-158" transform="translate(323.56,-319.364)" v:mID="180" v:groupContext="group">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konnektivität)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konzeptionell)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Datenbank)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Location" v:lbl="Standort" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Building" v:lbl="Gebäude" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Room" v:lbl="Raum" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:type="0" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="CommunityString" v:lbl="Community String" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT0(4):26"/>
+					<v:ud v:nameU="ShapeType" v:val="VT0(7):26"/>
+					<v:ud v:nameU="SubShapeType" v:val="VT0(16):26"/>
+					<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="HasText" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>Relationale Datenbank.101</title>
+				<desc>NFS-Share-03</desc>
+				<g id="shape181-159" v:mID="181" v:groupContext="shape">
+					<title>Tabelle.181</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09 Z" class="st25"/>
+				</g>
+				<g id="shape182-161" v:mID="182" v:groupContext="shape" transform="translate(0,-14.1732)">
+					<title>Tabelle.182</title>
+					<ellipse cx="17.7165" cy="831.26" rx="17.7165" ry="10.6299" class="st31"/>
+				</g>
+				<g id="shape183-165" v:mID="183" v:groupContext="shape">
+					<title>Tabelle.183</title>
+					<path d="M0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43 817.09 A17.7165 10.6299 0 1 1 0 817.09
+								 Z" class="st32"/>
+				</g>
+				<g id="shape184-169" v:mID="184" v:groupContext="shape">
+					<title>Tabelle.184</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09" class="st28"/>
+				</g>
+				<g id="shape180-172" v:mID="180" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="17.7165" cy="795.827" width="75.25" height="20.0036"/>
+					<text x="-14.52" y="798.83" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>NFS-Share-03</text>				</g>
+			</g>
+			<g id="shape185-174" v:mID="185" v:groupContext="shape" v:layerMember="0" transform="translate(68.4418,-319.364)">
+				<title>Dynamischer Verbinder</title>
+				<path d="M7.09 841.89 L7.09 896.79" class="st33"/>
+			</g>
+			<g id="shape186-180" v:mID="186" v:groupContext="shape" v:layerMember="0" transform="translate(201.316,-319.364)">
+				<title>Dynamischer Verbinder.107</title>
+				<path d="M7.09 841.89 L7.09 896.79" class="st33"/>
+			</g>
+			<g id="shape187-185" v:mID="187" v:groupContext="shape" v:layerMember="0" transform="translate(334.19,-319.364)">
+				<title>Dynamischer Verbinder.108</title>
+				<path d="M7.09 841.89 L7.09 896.79" class="st33"/>
+			</g>
+			<g id="group195-190" transform="translate(132.874,0)" v:mID="195" v:groupContext="group">
+				<title>Tabelle.195</title>
+				<g id="group196-191" v:mID="196" v:groupContext="group">
+					<v:custProps>
+						<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Location" v:lbl="Ort" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Building" v:lbl="Gebäude" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Room" v:lbl="Raum" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Equipment" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Equipment" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="CommunityString" v:lbl="Community String" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="CPU" v:lbl="CPU" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Memory" v:lbl="Arbeitsspeicher" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="OperatingSystem" v:lbl="Betriebssystem" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="HardDriveSize" v:lbl="Festplattenkapazität" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Department" v:lbl="Abteilung" v:prompt="" v:type="0" v:format="" v:sortKey=""
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:prompt="" v:type="0" v:format="" v:sortKey=""
+								v:invis="true" v:ask="false" v:langID="1031" v:cal="0" v:val="VT4(Geräte)"/>
+						<v:cp v:nameU="BelongsTo" v:lbl="Zuordnung" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+						<v:ud v:nameU="ShapeClass" v:prompt="" v:val="VT0(5):26"/>
+						<v:ud v:nameU="SolSH" v:prompt="" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+						<v:ud v:nameU="visLegendShape" v:prompt="" v:val="VT0(2):26"/>
+					</v:userDefs>
+					<title>Virtueller Server.12</title>
+					<desc>k8s-node23</desc>
+					<g id="shape197-192" v:mID="197" v:groupContext="shape" transform="translate(30.4266,-5.51181)">
+						<title>Tabelle.197</title>
+						<rect x="0" y="704.094" width="87.9657" height="137.795" class="st15"/>
+					</g>
+					<g id="shape198-194" v:mID="198" v:groupContext="shape" transform="translate(96.1714,-64.3339)">
+						<title>Tabelle.198</title>
+						<ellipse cx="5.31752" cy="836.572" rx="5.31752" ry="5.31752" class="st15"/>
+					</g>
+					<g id="shape199-196" v:mID="199" v:groupContext="shape" transform="translate(63.9026,-28.0992)">
+						<title>Tabelle.199</title>
+						<v:userDefs>
+							<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+							<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#d7e3bf)"/>
+						</v:userDefs>
+						<path d="M-0 841.89 L42.9 841.89 L42.9 838.44 L-0 838.44 L-0 841.89 ZM-0 831.44 L42.9 831.44 L42.9 828 L-0
+									 828 L-0 831.44 ZM-0 820.99 L42.9 820.99 L42.9 817.55 L-0 817.55 L-0 820.99 Z" class="st16"/>
+					</g>
+					<g id="shape200-199" v:mID="200" v:groupContext="shape" transform="translate(24.9148,2.77197E-06)">
+						<title>Tabelle.200</title>
+						<path d="M0 841.89 L98.99 841.89 L98.99 693.07 L0 693.07 L0 841.89" class="st10"/>
+					</g>
+					<g id="shape196-202" v:mID="196" v:groupContext="groupContent">
+						<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+						<v:textRect cx="74.4094" cy="855.492" width="87.59" height="27.2039"/>
+						<text x="36.43" y="860.29" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>k8s-node23</text>					</g>
+				</g>
+				<g id="shape201-204" v:mID="201" v:groupContext="shape" transform="translate(38.9764,-86.4567)">
+					<title>Tabelle.201</title>
+					<desc>2 vCPU 4GB RAM 20GB disk RancherOS 1.4.3</desc>
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="38.9764" cy="817.795" width="77.96" height="48.189"/>
+					<rect x="0" y="793.701" width="77.9528" height="48.189" class="st17"/>
+					<text x="4" y="802.8" class="st13" v:langID="1031"><v:paragraph/><v:tabList/>2 vCPU<v:newlineChar/><tspan x="4"
+								dy="1.2em" class="st7">4GB RAM<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st7">20GB disk<v:newlineChar/></tspan><tspan
+								x="4" dy="1.2em" class="st7">RancherOS 1.4.3</tspan></text>				</g>
+			</g>
+			<g id="group202-210" v:mID="202" v:groupContext="group">
+				<title>Tabelle.202</title>
+				<g id="group203-211" v:mID="203" v:groupContext="group">
+					<v:custProps>
+						<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Location" v:lbl="Ort" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Building" v:lbl="Gebäude" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Room" v:lbl="Raum" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Equipment" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Equipment" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="CommunityString" v:lbl="Community String" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="CPU" v:lbl="CPU" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Memory" v:lbl="Arbeitsspeicher" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="OperatingSystem" v:lbl="Betriebssystem" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="HardDriveSize" v:lbl="Festplattenkapazität" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Department" v:lbl="Abteilung" v:prompt="" v:type="0" v:format="" v:sortKey=""
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:prompt="" v:type="0" v:format="" v:sortKey=""
+								v:invis="true" v:ask="false" v:langID="1031" v:cal="0" v:val="VT4(Geräte)"/>
+						<v:cp v:nameU="BelongsTo" v:lbl="Zuordnung" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+						<v:ud v:nameU="ShapeClass" v:prompt="" v:val="VT0(5):26"/>
+						<v:ud v:nameU="SolSH" v:prompt="" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+						<v:ud v:nameU="visLegendShape" v:prompt="" v:val="VT0(2):26"/>
+					</v:userDefs>
+					<title>Virtueller Server.60</title>
+					<desc>k8s-node13</desc>
+					<g id="shape204-212" v:mID="204" v:groupContext="shape" transform="translate(30.4266,-5.51181)">
+						<title>Tabelle.204</title>
+						<rect x="0" y="704.094" width="87.9657" height="137.795" class="st15"/>
+					</g>
+					<g id="shape205-214" v:mID="205" v:groupContext="shape" transform="translate(96.1714,-64.3339)">
+						<title>Tabelle.205</title>
+						<ellipse cx="5.31752" cy="836.572" rx="5.31752" ry="5.31752" class="st15"/>
+					</g>
+					<g id="shape206-216" v:mID="206" v:groupContext="shape" transform="translate(63.9026,-28.0992)">
+						<title>Tabelle.206</title>
+						<v:userDefs>
+							<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+							<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#d7e3bf)"/>
+						</v:userDefs>
+						<path d="M-0 841.89 L42.9 841.89 L42.9 838.44 L-0 838.44 L-0 841.89 ZM-0 831.44 L42.9 831.44 L42.9 828 L-0
+									 828 L-0 831.44 ZM-0 820.99 L42.9 820.99 L42.9 817.55 L-0 817.55 L-0 820.99 Z" class="st16"/>
+					</g>
+					<g id="shape207-219" v:mID="207" v:groupContext="shape" transform="translate(24.9148,2.77197E-06)">
+						<title>Tabelle.207</title>
+						<path d="M0 841.89 L98.99 841.89 L98.99 693.07 L0 693.07 L0 841.89" class="st10"/>
+					</g>
+					<g id="shape203-222" v:mID="203" v:groupContext="groupContent">
+						<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+						<v:textRect cx="74.4094" cy="855.492" width="87.59" height="27.2039"/>
+						<text x="36.43" y="860.29" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>k8s-node13</text>					</g>
+				</g>
+				<g id="shape208-224" v:mID="208" v:groupContext="shape" transform="translate(38.9764,-86.4567)">
+					<title>Tabelle.208</title>
+					<desc>2 vCPU 4GB RAM 20GB disk RancherOS 1.4.3</desc>
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="38.9764" cy="817.795" width="77.96" height="48.189"/>
+					<rect x="0" y="793.701" width="77.9528" height="48.189" class="st17"/>
+					<text x="4" y="802.8" class="st13" v:langID="1031"><v:paragraph/><v:tabList/>2 vCPU<v:newlineChar/><tspan x="4"
+								dy="1.2em" class="st7">4GB RAM<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st7">20GB disk<v:newlineChar/></tspan><tspan
+								x="4" dy="1.2em" class="st7">RancherOS 1.4.3</tspan></text>				</g>
+			</g>
+		</g>
+		<g id="group215-230" transform="translate(53.4293,-49.6063)" v:mID="215" v:groupContext="group">
+			<title>Tabelle.215</title>
+			<g id="group74-231" transform="translate(31.8898,-318.898)" v:mID="74" v:groupContext="group">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konnektivität)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konzeptionell)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Datenbank)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Location" v:lbl="Standort" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Building" v:lbl="Gebäude" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Room" v:lbl="Raum" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:type="0" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="CommunityString" v:lbl="Community String" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT0(4):26"/>
+					<v:ud v:nameU="ShapeType" v:val="VT0(7):26"/>
+					<v:ud v:nameU="SubShapeType" v:val="VT0(16):26"/>
+					<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="HasText" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>Relationale Datenbank</title>
+				<desc>NFS-Share-01</desc>
+				<g id="shape75-232" v:mID="75" v:groupContext="shape">
+					<title>Tabelle.75</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09 Z" class="st25"/>
+				</g>
+				<g id="shape76-234" v:mID="76" v:groupContext="shape" transform="translate(0,-14.1732)">
+					<title>Tabelle.76</title>
+					<ellipse cx="17.7165" cy="831.26" rx="17.7165" ry="10.6299" class="st26"/>
+				</g>
+				<g id="shape77-237" v:mID="77" v:groupContext="shape">
+					<title>Tabelle.77</title>
+					<path d="M0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43 817.09 A17.7165 10.6299 0 1 1 0 817.09
+								 Z" class="st27"/>
+				</g>
+				<g id="shape78-240" v:mID="78" v:groupContext="shape">
+					<title>Tabelle.78</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09" class="st28"/>
+				</g>
+				<g id="shape74-243" v:mID="74" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="17.7165" cy="795.118" width="75.25" height="20.0036"/>
+					<text x="-14.52" y="798.12" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>NFS-Share-01</text>				</g>
+			</g>
+			<g id="group79-245" transform="translate(184.811,-318.898)" v:mID="79" v:groupContext="group">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konnektivität)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konzeptionell)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Datenbank)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Location" v:lbl="Standort" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Building" v:lbl="Gebäude" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Room" v:lbl="Raum" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:type="0" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="CommunityString" v:lbl="Community String" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT0(4):26"/>
+					<v:ud v:nameU="ShapeType" v:val="VT0(7):26"/>
+					<v:ud v:nameU="SubShapeType" v:val="VT0(16):26"/>
+					<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="HasText" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>Relationale Datenbank.56</title>
+				<desc>NFS-Share-02</desc>
+				<g id="shape80-246" v:mID="80" v:groupContext="shape">
+					<title>Tabelle.80</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09 Z" class="st25"/>
+				</g>
+				<g id="shape81-248" v:mID="81" v:groupContext="shape" transform="translate(0,-14.1732)">
+					<title>Tabelle.81</title>
+					<ellipse cx="17.7165" cy="831.26" rx="17.7165" ry="10.6299" class="st29"/>
+				</g>
+				<g id="shape82-251" v:mID="82" v:groupContext="shape">
+					<title>Tabelle.82</title>
+					<path d="M0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43 817.09 A17.7165 10.6299 0 1 1 0 817.09
+								 Z" class="st30"/>
+				</g>
+				<g id="shape83-254" v:mID="83" v:groupContext="shape">
+					<title>Tabelle.83</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09" class="st28"/>
+				</g>
+				<g id="shape79-257" v:mID="79" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="14.7683" cy="794.332" width="75.19" height="22.4037"/>
+					<text x="-17.47" y="797.93" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>NFS-Share-02</text>				</g>
+			</g>
+			<g id="group84-259" transform="translate(127.279,-56.6929)" v:mID="84" v:groupContext="group">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konnektivität)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konzeptionell)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Datenbank)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Location" v:lbl="Standort" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Building" v:lbl="Gebäude" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Room" v:lbl="Raum" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:type="0" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="CommunityString" v:lbl="Community String" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT0(4):26"/>
+					<v:ud v:nameU="ShapeType" v:val="VT0(7):26"/>
+					<v:ud v:nameU="SubShapeType" v:val="VT0(16):26"/>
+					<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="HasText" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>Relationale Datenbank.66</title>
+				<desc>50GB</desc>
+				<g id="shape85-260" v:mID="85" v:groupContext="shape">
+					<title>Tabelle.85</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09 Z" class="st25"/>
+				</g>
+				<g id="shape86-262" v:mID="86" v:groupContext="shape" transform="translate(0,-14.1732)">
+					<title>Tabelle.86</title>
+					<ellipse cx="17.7165" cy="831.26" rx="17.7165" ry="10.6299" class="st35"/>
+				</g>
+				<g id="shape87-266" v:mID="87" v:groupContext="shape">
+					<title>Tabelle.87</title>
+					<path d="M0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43 817.09 A17.7165 10.6299 0 1 1 0 817.09
+								 Z" class="st36"/>
+				</g>
+				<g id="shape88-270" v:mID="88" v:groupContext="shape">
+					<title>Tabelle.88</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09" class="st28"/>
+				</g>
+				<g id="shape84-273" v:mID="84" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="17.7165" cy="851.892" width="36.36" height="20.0036"/>
+					<text x="4.93" y="854.89" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>50GB</text>				</g>
+			</g>
+			<g id="group89-275" transform="translate(311.531,-56.6929)" v:mID="89" v:groupContext="group">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konnektivität)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konzeptionell)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Datenbank)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Location" v:lbl="Standort" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Building" v:lbl="Gebäude" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Room" v:lbl="Raum" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:type="0" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="CommunityString" v:lbl="Community String" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT0(4):26"/>
+					<v:ud v:nameU="ShapeType" v:val="VT0(7):26"/>
+					<v:ud v:nameU="SubShapeType" v:val="VT0(16):26"/>
+					<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="HasText" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>Relationale Datenbank.71</title>
+				<desc>50GB</desc>
+				<g id="shape90-276" v:mID="90" v:groupContext="shape">
+					<title>Tabelle.90</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09 Z" class="st25"/>
+				</g>
+				<g id="shape91-278" v:mID="91" v:groupContext="shape" transform="translate(0,-14.1732)">
+					<title>Tabelle.91</title>
+					<ellipse cx="17.7165" cy="831.26" rx="17.7165" ry="10.6299" class="st35"/>
+				</g>
+				<g id="shape92-281" v:mID="92" v:groupContext="shape">
+					<title>Tabelle.92</title>
+					<path d="M0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43 817.09 A17.7165 10.6299 0 1 1 0 817.09
+								 Z" class="st36"/>
+				</g>
+				<g id="shape93-284" v:mID="93" v:groupContext="shape">
+					<title>Tabelle.93</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09" class="st28"/>
+				</g>
+				<g id="shape89-287" v:mID="89" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="17.7165" cy="853.092" width="36.29" height="22.4037"/>
+					<text x="4.93" y="856.69" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>50GB</text>				</g>
+			</g>
+			<g id="group94-289" transform="translate(495.783,-56.6929)" v:mID="94" v:groupContext="group">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konnektivität)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konzeptionell)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Datenbank)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Location" v:lbl="Standort" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Building" v:lbl="Gebäude" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Room" v:lbl="Raum" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:type="0" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="CommunityString" v:lbl="Community String" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT0(4):26"/>
+					<v:ud v:nameU="ShapeType" v:val="VT0(7):26"/>
+					<v:ud v:nameU="SubShapeType" v:val="VT0(16):26"/>
+					<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="HasText" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>Relationale Datenbank.77</title>
+				<desc>50GB</desc>
+				<g id="shape95-290" v:mID="95" v:groupContext="shape">
+					<title>Tabelle.95</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09 Z" class="st25"/>
+				</g>
+				<g id="shape96-292" v:mID="96" v:groupContext="shape" transform="translate(0,-14.1732)">
+					<title>Tabelle.96</title>
+					<ellipse cx="17.7165" cy="831.26" rx="17.7165" ry="10.6299" class="st35"/>
+				</g>
+				<g id="shape97-295" v:mID="97" v:groupContext="shape">
+					<title>Tabelle.97</title>
+					<path d="M0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43 817.09 A17.7165 10.6299 0 1 1 0 817.09
+								 Z" class="st36"/>
+				</g>
+				<g id="shape98-298" v:mID="98" v:groupContext="shape">
+					<title>Tabelle.98</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09" class="st28"/>
+				</g>
+				<g id="shape94-301" v:mID="94" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="17.7165" cy="853.092" width="36.29" height="22.4037"/>
+					<text x="4.93" y="856.69" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>50GB</text>				</g>
+			</g>
+			<g id="shape99-303" v:mID="99" v:groupContext="shape" v:layerMember="0" transform="translate(98.8212,-67.3229)">
+				<title>Dynamischer Verbinder.87</title>
+				<path d="M0 834.8 L28.46 834.8" class="st37"/>
+			</g>
+			<g id="shape102-306" v:mID="102" v:groupContext="shape" transform="translate(7.99361E-15,-172.69)">
+				<title>Tabelle.102</title>
+				<desc>longhorn 0.3.0</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="15.44" y="830.72" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>longhorn<tspan
+							class="st6"> </tspan><tspan class="st6">0.3.0</tspan></text>			</g>
+			<g id="shape103-311" v:mID="103" v:groupContext="shape" transform="translate(7.99361E-15,-201.036)">
+				<title>Tabelle.103</title>
+				<desc>metallb 0.7.3</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="20.98" y="830.72" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>metallb 0.7.3</text>			</g>
+			<g id="shape104-314" v:mID="104" v:groupContext="shape" transform="translate(1.59872E-14,-229.383)">
+				<title>Tabelle.104</title>
+				<desc>A: rook-nfs 0.9.2</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st21"/>
+				<text x="10.43" y="830.72" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>A: rook-nfs<tspan
+							class="st6"> </tspan><tspan class="st6">0.9.2</tspan></text>			</g>
+			<g id="shape107-319" v:mID="107" v:groupContext="shape" transform="translate(184.811,-172.69)">
+				<title>Tabelle.107</title>
+				<desc>longhorn 0.3.0</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="15.44" y="830.72" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>longhorn<tspan
+							class="st6"> </tspan><tspan class="st6">0.3.0</tspan></text>			</g>
+			<g id="shape108-324" v:mID="108" v:groupContext="shape" transform="translate(184.811,-201.036)">
+				<title>Tabelle.108</title>
+				<desc>metallb 0.7.3</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="20.98" y="830.72" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>metallb 0.7.3</text>			</g>
+			<g id="shape109-327" v:mID="109" v:groupContext="shape" transform="translate(184.811,-229.382)">
+				<title>Tabelle.109</title>
+				<desc>B: rook-nfs 0.9.2</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st23"/>
+				<text x="10.43" y="830.72" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>B: rook-nfs<tspan
+							class="st6"> </tspan><tspan class="st6">0.9.2</tspan></text>			</g>
+			<g id="shape112-332" v:mID="112" v:groupContext="shape" transform="translate(367.944,-172.69)">
+				<title>Tabelle.112</title>
+				<desc>longhorn 0.3.0</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="15.44" y="830.72" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>longhorn<tspan
+							class="st6"> </tspan><tspan class="st6">0.3.0</tspan></text>			</g>
+			<g id="shape113-337" v:mID="113" v:groupContext="shape" transform="translate(367.944,-201.036)">
+				<title>Tabelle.113</title>
+				<desc>metallb 0.7.3</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="827.717" width="99.22" height="28.3465"/>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st18"/>
+				<text x="20.98" y="830.72" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>metallb 0.7.3</text>			</g>
+			<g id="shape114-340" v:mID="114" v:groupContext="shape" transform="translate(367.944,-229.382)">
+				<title>Tabelle.114</title>
+				<rect x="0" y="813.543" width="99.2126" height="28.3465" class="st38"/>
+			</g>
+			<g id="group115-342" transform="translate(248.591,-318.898)" v:mID="115" v:groupContext="group">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konnektivität)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Konzeptionell)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1031"
+							v:val="VT4(Datenbank)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:type="0" v:sortKey="Equipment" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Location" v:lbl="Standort" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Building" v:lbl="Gebäude" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="Room" v:lbl="Raum" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:type="0" v:sortKey="Network"
+							v:invis="false" v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+							v:langID="1031"/>
+					<v:cp v:nameU="CommunityString" v:lbl="Community String" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+					<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:type="0" v:sortKey="Network" v:invis="false"
+							v:ask="false" v:langID="1031"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT0(4):26"/>
+					<v:ud v:nameU="ShapeType" v:val="VT0(7):26"/>
+					<v:ud v:nameU="SubShapeType" v:val="VT0(16):26"/>
+					<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="HasText" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>Relationale Datenbank.107</title>
+				<desc>NFS-Share-03</desc>
+				<g id="shape116-343" v:mID="116" v:groupContext="shape">
+					<title>Tabelle.116</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09 Z" class="st25"/>
+				</g>
+				<g id="shape117-345" v:mID="117" v:groupContext="shape" transform="translate(0,-14.1732)">
+					<title>Tabelle.117</title>
+					<ellipse cx="17.7165" cy="831.26" rx="17.7165" ry="10.6299" class="st31"/>
+				</g>
+				<g id="shape118-348" v:mID="118" v:groupContext="shape">
+					<title>Tabelle.118</title>
+					<path d="M0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43 817.09 A17.7165 10.6299 0 1 1 0 817.09
+								 Z" class="st32"/>
+				</g>
+				<g id="shape119-351" v:mID="119" v:groupContext="shape">
+					<title>Tabelle.119</title>
+					<path d="M35.43 817.09 A17.7165 10.6299 -180 1 0 0 817.09 L0 831.26 A17.7165 10.6299 -180 1 0 35.43 831.26 L35.43
+								 817.09" class="st28"/>
+				</g>
+				<g id="shape115-354" v:mID="115" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="21.8549" cy="794.332" width="75.25" height="20.0036"/>
+					<text x="-10.38" y="797.33" class="st20" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>NFS-Share-03</text>				</g>
+			</g>
+			<g id="shape120-356" v:mID="120" v:groupContext="shape" v:layerMember="0" transform="translate(195.441,-318.898)">
+				<title>Dynamischer Verbinder.112</title>
+				<path d="M7.09 851.34 L7.09 851.7 L7.09 903.06" class="st39"/>
+			</g>
+			<g id="shape121-362" v:mID="121" v:groupContext="shape" v:layerMember="0" transform="translate(42.5197,-318.898)">
+				<title>Dynamischer Verbinder.113</title>
+				<path d="M7.09 851.34 L7.09 851.7 L7.09 903.06" class="st39"/>
+			</g>
+			<g id="shape122-367" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(259.221,-318.898)">
+				<title>Dynamischer Verbinder.114</title>
+				<path d="M7.09 851.34 L7.09 851.7 L7.09 903.06" class="st39"/>
+			</g>
+			<g id="shape123-372" v:mID="123" v:groupContext="shape" v:layerMember="0" transform="translate(283.073,-67.3228)">
+				<title>Dynamischer Verbinder.85</title>
+				<path d="M0 834.8 L28.46 834.8" class="st37"/>
+			</g>
+			<g id="shape124-375" v:mID="124" v:groupContext="shape" v:layerMember="0" transform="translate(467.325,-67.3228)">
+				<title>Dynamischer Verbinder</title>
+				<path d="M0 834.8 L28.46 834.8" class="st37"/>
+			</g>
+			<g id="group132-378" transform="translate(159.169,0)" v:mID="132" v:groupContext="group">
+				<title>Tabelle.132</title>
+				<g id="group133-379" v:mID="133" v:groupContext="group">
+					<v:custProps>
+						<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Location" v:lbl="Ort" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Building" v:lbl="Gebäude" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Room" v:lbl="Raum" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Equipment" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Equipment" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="CommunityString" v:lbl="Community String" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="CPU" v:lbl="CPU" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Memory" v:lbl="Arbeitsspeicher" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="OperatingSystem" v:lbl="Betriebssystem" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="HardDriveSize" v:lbl="Festplattenkapazität" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Department" v:lbl="Abteilung" v:prompt="" v:type="0" v:format="" v:sortKey=""
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:prompt="" v:type="0" v:format="" v:sortKey=""
+								v:invis="true" v:ask="false" v:langID="1031" v:cal="0" v:val="VT4(Geräte)"/>
+						<v:cp v:nameU="BelongsTo" v:lbl="Zuordnung" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+						<v:ud v:nameU="ShapeClass" v:prompt="" v:val="VT0(5):26"/>
+						<v:ud v:nameU="SolSH" v:prompt="" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+						<v:ud v:nameU="visLegendShape" v:prompt="" v:val="VT0(2):26"/>
+					</v:userDefs>
+					<title>Virtueller Server.12</title>
+					<desc>k8s-node22</desc>
+					<g id="shape134-380" v:mID="134" v:groupContext="shape" transform="translate(30.4266,-5.51181)">
+						<title>Tabelle.134</title>
+						<rect x="0" y="704.094" width="87.9657" height="137.795" class="st8"/>
+					</g>
+					<g id="shape135-382" v:mID="135" v:groupContext="shape" transform="translate(96.1714,-64.3339)">
+						<title>Tabelle.135</title>
+						<ellipse cx="5.31752" cy="836.572" rx="5.31752" ry="5.31752" class="st8"/>
+					</g>
+					<g id="shape136-384" v:mID="136" v:groupContext="shape" transform="translate(63.9026,-28.0992)">
+						<title>Tabelle.136</title>
+						<v:userDefs>
+							<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+							<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#fbd7bb)"/>
+						</v:userDefs>
+						<path d="M-0 841.89 L42.9 841.89 L42.9 838.44 L-0 838.44 L-0 841.89 ZM-0 831.44 L42.9 831.44 L42.9 828 L-0
+									 828 L-0 831.44 ZM-0 820.99 L42.9 820.99 L42.9 817.55 L-0 817.55 L-0 820.99 Z" class="st9"/>
+					</g>
+					<g id="shape137-387" v:mID="137" v:groupContext="shape" transform="translate(24.9148,2.77197E-06)">
+						<title>Tabelle.137</title>
+						<path d="M0 841.89 L98.99 841.89 L98.99 693.07 L0 693.07 L0 841.89" class="st10"/>
+					</g>
+					<g id="shape133-390" v:mID="133" v:groupContext="groupContent">
+						<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+						<v:textRect cx="74.4094" cy="855.492" width="87.59" height="27.2039"/>
+						<text x="36.43" y="860.29" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>k8s-node22</text>					</g>
+				</g>
+				<g id="shape138-392" v:mID="138" v:groupContext="shape" transform="translate(38.9764,-86.4567)">
+					<title>Tabelle.138</title>
+					<desc>2 vCPU 4GB RAM 20GB disk RancherOS 1.4.0</desc>
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="38.3386" cy="817.795" width="76.68" height="48.189"/>
+					<rect x="0" y="793.701" width="76.6772" height="48.189" class="st12"/>
+					<text x="4" y="802.8" class="st13" v:langID="1031"><v:paragraph/><v:tabList/>2 vCPU<v:newlineChar/><tspan x="4"
+								dy="1.2em" class="st7">4GB RAM<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st7">20GB disk<v:newlineChar/></tspan><tspan
+								x="4" dy="1.2em" class="st7">RancherOS 1.4.0</tspan></text>				</g>
+			</g>
+			<g id="group139-398" transform="translate(343.421,0)" v:mID="139" v:groupContext="group">
+				<title>Tabelle.139</title>
+				<g id="group140-399" v:mID="140" v:groupContext="group">
+					<v:custProps>
+						<v:cp v:nameU="AssetNumber" v:lbl="Inventarnummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="SerialNumber" v:lbl="Seriennummer" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Location" v:lbl="Ort" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Building" v:lbl="Gebäude" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Room" v:lbl="Raum" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Manufacturer" v:lbl="Hersteller" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ProductNumber" v:lbl="Produktnummer" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Equipment" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="PartNumber" v:lbl="Teilenummer" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ProductDescription" v:lbl="Produktbeschreibung" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Equipment" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NetworkName" v:lbl="Netzwerkname" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="IPAddress" v:lbl="IP-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="SubnetMask" v:lbl="Subnetzmaske" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="AdminInterface" v:lbl="Administrative Schnittstelle" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NumberofPorts" v:lbl="Anzahl der Anschlüsse" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="CommunityString" v:lbl="Community String" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="NetworkDescription" v:lbl="Netzwerkbeschreibung" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="MACAddress" v:lbl="MAC-Adresse" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="CPU" v:lbl="CPU" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation" v:invis="false"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Memory" v:lbl="Arbeitsspeicher" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation"
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="OperatingSystem" v:lbl="Betriebssystem" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="HardDriveSize" v:lbl="Festplattenkapazität" v:prompt="" v:type="0" v:format=""
+								v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="Department" v:lbl="Abteilung" v:prompt="" v:type="0" v:format="" v:sortKey=""
+								v:invis="false" v:ask="false" v:langID="1031" v:cal="0"/>
+						<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:prompt="" v:type="0" v:format="" v:sortKey=""
+								v:invis="true" v:ask="false" v:langID="1031" v:cal="0" v:val="VT4(Geräte)"/>
+						<v:cp v:nameU="BelongsTo" v:lbl="Zuordnung" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+								v:ask="false" v:langID="1031" v:cal="0"/>
+					</v:custProps>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+						<v:ud v:nameU="ShapeClass" v:prompt="" v:val="VT0(5):26"/>
+						<v:ud v:nameU="SolSH" v:prompt="" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+						<v:ud v:nameU="visLegendShape" v:prompt="" v:val="VT0(2):26"/>
+					</v:userDefs>
+					<title>Virtueller Server.18</title>
+					<desc>k8s-node32</desc>
+					<g id="shape141-400" v:mID="141" v:groupContext="shape" transform="translate(30.4266,-5.51181)">
+						<title>Tabelle.141</title>
+						<rect x="0" y="704.094" width="87.9657" height="137.795" class="st8"/>
+					</g>
+					<g id="shape142-402" v:mID="142" v:groupContext="shape" transform="translate(96.1714,-64.3339)">
+						<title>Tabelle.142</title>
+						<ellipse cx="5.31752" cy="836.572" rx="5.31752" ry="5.31752" class="st8"/>
+					</g>
+					<g id="shape143-404" v:mID="143" v:groupContext="shape" transform="translate(63.9026,-28.0992)">
+						<title>Tabelle.143</title>
+						<v:userDefs>
+							<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+							<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#fbd7bb)"/>
+						</v:userDefs>
+						<path d="M-0 841.89 L42.9 841.89 L42.9 838.44 L-0 838.44 L-0 841.89 ZM-0 831.44 L42.9 831.44 L42.9 828 L-0
+									 828 L-0 831.44 ZM-0 820.99 L42.9 820.99 L42.9 817.55 L-0 817.55 L-0 820.99 Z" class="st9"/>
+					</g>
+					<g id="shape144-407" v:mID="144" v:groupContext="shape" transform="translate(24.9148,2.77197E-06)">
+						<title>Tabelle.144</title>
+						<path d="M0 841.89 L98.99 841.89 L98.99 693.07 L0 693.07 L0 841.89" class="st10"/>
+					</g>
+					<g id="shape140-410" v:mID="140" v:groupContext="groupContent">
+						<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+						<v:textRect cx="74.4094" cy="855.492" width="87.59" height="27.2039"/>
+						<text x="36.43" y="860.29" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>k8s-node32</text>					</g>
+				</g>
+				<g id="group145-412" transform="translate(38.9764,-86.4567)" v:mID="145" v:groupContext="group">
+					<title>Tabelle.145</title>
+					<g id="shape146-413" v:mID="146" v:groupContext="shape">
+						<title>Tabelle.146</title>
+						<desc>2 vCPU 4GB RAM 20GB disk RancherOS 1.4.0</desc>
+						<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+						<v:textRect cx="38.622" cy="817.795" width="77.25" height="48.189"/>
+						<rect x="0" y="793.701" width="77.2441" height="48.189" class="st12"/>
+						<text x="4" y="802.8" class="st13" v:langID="1031"><v:paragraph/><v:tabList/>2 vCPU<v:newlineChar/><tspan
+									x="4" dy="1.2em" class="st7">4GB RAM<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st7">20GB disk<v:newlineChar/></tspan><tspan
+									x="4" dy="1.2em" class="st7">RancherOS 1.4.0</tspan></text>					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
